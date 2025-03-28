@@ -12,6 +12,9 @@ MotoPay is a vehicle leasing system designed to streamline the leasing process. 
 
 - **Customer Management Dashboard** 👥  
   Manages customer data, including personal information and leasing history.
+  
+- **Leasing Approval Workflow** ✔️  
+  Manages the approval process for lease contracts. Includes status tracking, approval/rejection functionality, and notifications to ensure smooth leasing operations.
 
 - **RESTful API Integration** 🔄  
   Connects seamlessly with the backend, fetching and displaying data in real-time using REST APIs.
